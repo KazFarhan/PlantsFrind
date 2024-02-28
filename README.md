@@ -1,2 +1,2 @@
 # PlantsFrind
-this is a plans app for detection of different types of plants
+this is a plant app for the detection of different types of plants
